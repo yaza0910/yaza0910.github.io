@@ -1,5 +1,5 @@
 // キャッシュファイルの指定
-var CACHE_NAME = 'pwa-sample-caches';
+var CACHE_NAME = 'yaza0910-app-demo';
 var urlsToCache = [
     '/yaza0910.github.io/',
 ];
