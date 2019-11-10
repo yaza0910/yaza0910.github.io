@@ -1,9 +1,11 @@
 {
-  "name": "GAMY（ゲーミー）- みんなのゲーム攻略メディア",
-  "short_name": "GAMY攻略",
-  "start_url": "/",
+  "name": "ぼくのアプリ！！",
+  "short_name": "ぼくアプ",
+  "theme_color": "#2196f3",
+   "background_color": "#2196f3",
   "display": "standalone",
-  "theme_color": "#e91e63",
+  "scope": "/",
+  "start_url": "/index.html",
   "icons": [
     {
       "src": "images/icons/icon-72x72.png",
